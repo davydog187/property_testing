@@ -45,4 +45,5 @@ defmodule PropertyTestingTest do
       end
     end
   end
+
 end
